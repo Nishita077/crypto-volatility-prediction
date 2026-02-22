@@ -83,7 +83,7 @@ Chosen because:
 
 ---
 
-## 📈 Model Performance
+##  Model's Performance
 
 ### Base Model:
 - Train RMSE: 0.00992
